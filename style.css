@@ -139,7 +139,7 @@ a {
 	text-decoration: underline;
 	font-size: 1.6rem;
 	margin-top: 1rem;
-    color: black;
+    color: green;
 }
 .downloadBtn:hover {
 	color: var(--primary-color);
